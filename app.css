@@ -1,0 +1,52 @@
+h1 {
+  color: green;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #222;
+  color: #aaa;
+  text-align: center;
+}
+
+header {
+  height: 10vh;
+  text-align: center;
+}
+
+main {
+  height: 80vh;
+}
+
+footer {
+  height: 10vh;
+}
+
+#app-name {
+  font-size: 8vh;
+}
+
+#timestamp {
+  position: absolute;
+  font-weight: bolder;
+  font-size: 6vh;
+  bottom: 0;
+  right: 0;
+  padding-right: 8px;
+}
+
+          
+
+button {
+  background-color: #444;
+  color: #aaa;
+  font-size: 8vh;
+}
+
+svg {
+
+}
