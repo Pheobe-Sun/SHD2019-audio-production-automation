@@ -1,0 +1,3 @@
+#!/Users/Pheobe/Desktop/Wix4Podcast/audio_processing/venv/bin/python
+from numba.pycc import main
+main()

@@ -1,0 +1,8 @@
+#!/Users/Pheobe/Desktop/Wix4Podcast/audio_processing/venv/bin/python
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.numba_entry import main
+
+if __name__ == "__main__":
+    main()
